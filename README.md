@@ -73,6 +73,8 @@ As always, a huge thanks to our instructional staff for all their hard work!
 Find me on LinkedIn Here:
 [Aimee Esler](https://www.linkedin.com/in/aimee-esler-3bb31288/)
 
+---
+
 ## Links
 
 [Repository Link](https://github.com/aimeecesler/budget-tracker)
