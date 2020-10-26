@@ -73,9 +73,9 @@ Find me on LinkedIn Here:
 
 ## Links
 
-[Repository Link]()
+[Repository Link](https://github.com/aimeecesler/budget-tracker)
 
-[Deployed Application]()
+[Deployed Application](https://ace-budget-tracker.herokuapp.com/)
 
 ---
 
