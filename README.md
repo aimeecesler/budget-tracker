@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+The purpose of this application is to allow the user to track deposits and purchases with their budget both online and offline in the app.
+
 ![Main](readmeimg.PNG)
 
 ---
@@ -37,7 +39,7 @@ Edit using VSCode after [installation](#installation). Routes, models, and publi
 
 ## Building the Application
 
-
+The assignment for this application was to convert it to a PWA application so that it can be utilized both online and offline. To do this, I had to add a manifest, service worker and a cache for the database. This was accomplished by adding the manifest.webmanifest, db.js and service-worker.js files and their contents. I also updated the connection in order to deploy to Heroku.
 
 ---
 
