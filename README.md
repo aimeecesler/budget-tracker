@@ -31,7 +31,7 @@
 
 ## Usage
 
-Edit using VSCode after [installation](#installation). Config, routes, models, public, and seeders folders are included along with server file and package.json files. This application is deployed to Heroku, see [links](#Links) section below.
+Edit using VSCode after [installation](#installation). Routes, models, and public folders are included along with server file, db.js, service-worker.js, manifest.webmanifest and package.json files. This application is deployed to Heroku, see [links](#Links) section below.
 
 ---
 
@@ -43,7 +43,9 @@ Edit using VSCode after [installation](#installation). Config, routes, models, p
 
 ## Acceptance Criteria
 
-:heavy_check_mark:
+GIVEN a user is on Budget App without an internet connection :heavy_check_mark:
+WHEN the user inputs a withdrawal or deposit :heavy_check_mark:
+THEN that will be shown on the page, and added to their transaction history when their connection is back online. :heavy_check_mark:
 
 ---
 
